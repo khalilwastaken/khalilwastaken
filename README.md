@@ -1,8 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Khalil, a Moroccan Web AI Engineer 👋🏼:
-
-<h2 align="center">Hi 👋! My name is Khalil and I'm an AI Engineer from Morocco !</h2>
+# Hello World!, I'm Khalil, a Moroccan AI Engineer 👋🏼:
 
 ###
 
