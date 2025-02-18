@@ -2,10 +2,12 @@
 
 # Hello World!, I'm Khalil, a Moroccan Web AI Engineer 👋🏼:
 
-# 💻 Tech Stack:
 <h2 align="center">Hi 👋! My name is Khalil and I'm an AI Engineer from Morocco !</h2>
 
 ###
+
+
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -54,8 +56,6 @@
 ###
 
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=go1xucfz9r45b38u17pzf8kub)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khalilwastaken/khalilwastaken/output/github-snake-dark.svg" />
