@@ -1,4 +1,4 @@
-# Hello World!, I'm Khalil, a Moroccan AI Engineer 👋🏼:
+# Hello World!, I'm Khalil, AI & Robotics M2 student 👋🏼:
 
 ###
 
